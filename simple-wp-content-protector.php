@@ -12,7 +12,7 @@
  * Author URI:        http://codepopular.com
  * License:           GPL v2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       simple-content-protector-wp
+ * Text Domain:       simple-wp-content-protector
  */
 
   if (!defined('ABSPATH')) die ('No direct access allowed');
