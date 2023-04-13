@@ -4,7 +4,7 @@
  * Plugin Name:       Simple Wp Content Protector
  * Plugin URI:        https://wordpress.org/plugins/simple-wp-content-protector
  * Description:       Simple content plugin help to protect your wordpress website text & image. it will help you to disable ctl+a, ctl+u, ctl+c, ctl+x, ctl+d drag & drop etc.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.2
  * Tested up to:      6.2
  * Requires PHP:      7.2
