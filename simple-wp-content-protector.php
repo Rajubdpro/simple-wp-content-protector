@@ -6,7 +6,7 @@
  * Description:       Simple content plugin help to protect your wordpress website text & image. it will help you to disable ctl+a, ctl+u, ctl+c, ctl+x, ctl+d drag & drop etc.
  * Version:           1.0.0
  * Requires at least: 5.2
- * Tested up to:      6.1.1
+ * Tested up to:      6.2
  * Requires PHP:      7.2
  * Author:            rajubdpro
  * Author URI:        http://codepopular.com

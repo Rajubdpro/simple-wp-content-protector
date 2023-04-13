@@ -3,7 +3,7 @@ Contributors:      rajubdpro, codepopular
 Author:            rajubdpro
 Donate link:       https://ko-fi.com/codepopular
 Tags: content protection, content protect, copy protection, copy protect, protect content,  protect page, protect post, protect image, right click disable, source disable
-Tested up to:      6.1.1
+Tested up to:      6.2
 Requires at least: 5.2
 Stable tag:        1.0.0
 Requires PHP:      7.2
