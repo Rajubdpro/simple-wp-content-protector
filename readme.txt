@@ -5,7 +5,7 @@ Donate link:       https://ko-fi.com/codepopular
 Tags: content protection, content protect, copy protection, copy protect, protect content,  protect page, protect post, protect image, right click disable, source disable
 Tested up to:      6.1.1
 Requires at least: 5.2
-Stable tag:        1.0.0
+Stable tag:        1.0.2
 Requires PHP:      7.2
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
